@@ -1,5 +1,5 @@
 pkgname=messengerfordesktop
-pkgver=v1.4.3
+pkgver=v2.0.9
 pkgrel=1
 pkgdesc="Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications."
 PKGEXT='.pkg.tar'
